@@ -1,37 +1,37 @@
-## Welcome to GitHub Pages
+## Bienvenido a Super Computo
 
-You can use the [editor on GitHub](https://github.com/SkyllerXBruce/UAMI_LAB/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Este sitio se actualizara para poder Crear contenido para el soporte de los usuarios.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+El usuario podra entrar al sitio [UAMI Super LAB](www.uamisuperlab.io) para poder visualizar el desempeño del uso del equipo como aclaraciones sobre el mismo.
+
+La implementación de la pagina sera muy sencilla, gracias al la poderosa herramienta llamada __Markdown__ podremos editar la pagina web mediante repositorios creados en esta plataforma __Git Hub__.
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+__Markdown__ es un editor de texto simple con una sintaxis muy facil de usar. Aquí se ejemplificarán algunas:
 
 ```markdown
-Syntax highlighted code block
+Bloques de sintaxis
 
-# Header 1
-## Header 2
-### Header 3
+# Encabesado 1
+## Encabesado 2
+### Encabesado 3
 
-- Bulleted
-- List
+- Lista
+- Simple
 
-1. Numbered
-2. List
+1. Lista
+2. Enumerada
 
-**Bold** and _Italic_ and `Code` text
+**Negrita** , _cursiva_ y `código` textual
 
-[Link](url) and ![Image](src)
+[Links de paginas web](url) e ![Imagenes](png)
 ```
+Entre otras cosas...
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Se pueden ver más detalles del uso de _markdown_ en  [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### Temas Para la Pagina Web
+Hacer uso de los temas predefinidos que nos ofrece el sitio "the Jekyll theme" facilita mucho el trabajo, ovidandonos del engorroso trabajo de la codificacion que se requiere de la pagina web, sin contar que muchas veces al actualizar la pagina esta se tiene que volver a ajustar complicando el trabajo. Sin embargo _Git Hub_ nos facilita creando las paginas con un formato ya establecido para la visualisación los repositorios y demas proyectos creados.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SkyllerXBruce/UAMI_LAB/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
