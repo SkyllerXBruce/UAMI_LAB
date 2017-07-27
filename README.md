@@ -34,4 +34,4 @@ Se pueden ver más detalles del uso de _markdown_ en  [GitHub Flavored Markdown
 ### Temas Para la Pagina Web
 Hacer uso de los temas predefinidos que nos ofrece el sitio "the Jekyll theme" facilita mucho el trabajo, ovidandonos del engorroso trabajo de la codificacion que se requiere de la pagina web, sin contar que muchas veces al actualizar la pagina esta se tiene que volver a ajustar complicando el trabajo. Sin embargo _Git Hub_ nos facilita creando las paginas con un formato ya establecido para la visualisación los repositorios y demas proyectos creados.
 
-
+Autor Miguel.
